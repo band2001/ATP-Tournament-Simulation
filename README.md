@@ -1,2 +1,5 @@
 # ATP-Tournament-Simulation
-Open UserManual.pdf for instructions on how to use this program.
+
+To run the program, run main.py.
+
+Open UserManual.pdf for additional instructions and information on how to use the functions in this program.
